@@ -1,5 +1,7 @@
 # Deploy an App with Docker
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/20.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-compute-eb)
 
 **Author:** Nchindo Boris  
