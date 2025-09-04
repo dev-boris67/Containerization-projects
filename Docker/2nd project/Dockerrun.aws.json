@@ -1,0 +1,13 @@
+  {
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "721605076466.dkr.ecr.us-east-1.amazonaws.com/maven/cross-account-docker-app",
+      "Update": "true"
+    },
+    "Ports": [
+      {
+        "ContainerPort": "80"
+      }
+    ]
+  }
+
