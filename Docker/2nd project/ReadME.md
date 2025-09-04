@@ -1,6 +1,6 @@
 # Deploy an App Across Accounts
 
-![Image] (https://learn.nextwork.org/projects/static/aws-compute-ecr/architecture.png)
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/23.png?raw=true)
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-compute-ecr)
 
